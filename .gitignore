@@ -1,0 +1,7 @@
+/.idea/
+/.venv/
+data/
+/model/
+/models/
+/.trash/
+gpushare/
