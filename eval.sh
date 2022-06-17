@@ -1,7 +1,7 @@
 t5chem predict \
-  --data_dir data/smiles_with_hv \
-  --model_dir model/smiles_with_hv_480k/best_cp-1000 \
+  --data_dir data/ringbreaker/ \
+  --model_dir model/ringbreaker_USPTO_50k/checkpoint-10000/ \
   --batch_size 32 \
-  --prefix "Product:" \
+  --prefix "Reactants:" \
   --num_beams 10 \
   --num_preds  3

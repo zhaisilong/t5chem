@@ -1,1 +1,1 @@
-tensorboard --logdir=model/USPTO_50k/runs
+tensorboard --logdir=model/ringbreaker/runs
